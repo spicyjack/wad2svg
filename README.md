@@ -1,15 +1,12 @@
+# wad2svg #
 
-                                    wad2svg
+## What is it? ##
 
-   [1][sflogo.php?group_id=10283&amp;type=5] 
-
-What is it?
-
-   A Doom level can be represented by a two-dimensional top-down map,
-   such as that shown on the in-game automap display. Various standalone
-   utilities exist for drawing a map of a Doom level. However no direct
-   utility for creating an SVG map of a Doom level existed, to my
-   knowledge, so I wrote one.
+A Doom level can be represented by a two-dimensional top-down map,
+such as that shown on the in-game automap display. Various standalone
+utilities exist for drawing a map of a Doom level. However no direct
+utility for creating an SVG map of a Doom level existed, to my
+knowledge, so I wrote one.
 
    SVG stands for Scalable Vector Graphics, the [2]new standard from the
    W3C for vector graphics on the Internet. SVG ties in with other web
